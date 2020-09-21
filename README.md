@@ -1,4 +1,4 @@
-#Projects using Core Java
+# Projects using Core Java
 
 * Text Based Game(Battle Simulator)
 * E-Mail Application
